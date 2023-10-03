@@ -1,3 +1,3 @@
 ## To view
 
-[Projeto - Tabuada](https://brnmilano.github.io/qrcode-generator/)
+[Projeto - Gerador de QR Code](https://brnmilano.github.io/qrcode-generator/)
